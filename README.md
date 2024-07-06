@@ -11,8 +11,7 @@ This repository contains code for image classification using the Vision Transfor
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation"
 -----------------
