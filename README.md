@@ -1,6 +1,6 @@
 # Image_Classification_Model
 
-# Image Classification with Vision Transformer (ViT):
+# Image Classification with Vision-Transformer (ViT):
 ------------------------------------------------------
 
 This repository contains code for image classification using the Vision Transformer (ViT) model from Hugging Face. The ViT model is pre-trained on the ImageNet-21k dataset and can classify images into various categories.
@@ -54,4 +54,4 @@ If you have a mapping of class indices to class names, you can decode the predic
 labels = ["Class 0", "Class 1", "Class 2", "..."]
 
 predicted_class_name = labels[predicted_class_idx] if predicted_class_idx < len(labels) else "Unknown"
-print(f"Predicted class name: {predicted_class_name}")
+print(f"Predicted class name: {predicted_class_name}").
